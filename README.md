@@ -11,3 +11,5 @@
 Drive Google : https://drive.google.com/file/d/12ZHmio5A8kqQzTFDUf4p5cSvptff1rMV/view?usp=sharing
 
 Dropbox : https://www.dropbox.com/s/84guxtte6uqpsx4/OLX%20UA%20Parser.rar?dl=0
+
+Либо просто склонируйте репозиторий в GitHub Desktop
